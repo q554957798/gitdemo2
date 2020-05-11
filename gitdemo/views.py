@@ -6,7 +6,6 @@ def hh():
     print('哈哈哈')
     print('呵呵呵')
     print('快快快')
-    print('ssisi')
     return HttpResponse('hello!')
 
 
